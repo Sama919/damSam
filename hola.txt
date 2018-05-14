@@ -1,3 +1,4 @@
 Pruebas con Eclipse
 Si hago más pruebas desde eclipse las ven las demás personas que están en el proyecto?
 Es confuso cuando estamos trabajando a la vez varias personas sobre lo mismo
+4 ya esta todo arreglado
